@@ -1,4 +1,10 @@
-![banner](https://raw.githubusercontent.com/matthewtrefusis/matthewtrefusis/main/river.gif)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/matthewtrefusis/matthewtrefusis/main/river.gif"
+    alt="banner"
+    width="100%"
+  >
+</p>
 
 <div align="center">
   <p>Visitor count</p>
