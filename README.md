@@ -27,7 +27,7 @@
 <div align="center">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,lua,cs" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cs,go,lua,js,ts" alt="Languages" />
   <br />
 
   <!-- Frontend -->
@@ -35,7 +35,7 @@
   <br />
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet" alt="Backend" />
   <br />
 
   <!-- Tools -->
