@@ -39,7 +39,7 @@
   <br />
 
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,neovim,ubunutu,windows" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,neovim,ubuntu,windows" alt="Tools" />
 
 </div>
 
