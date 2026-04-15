@@ -1,3 +1,5 @@
+![banner](https://github.com/matthewtrefusis/matthewtrefusis/main/river.gif)
+
 <div align="center">
   <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=matthewtrefusis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
