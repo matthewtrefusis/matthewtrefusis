@@ -1,37 +1,37 @@
 <div align="center">
-  <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=matthewtrefusis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Matthew+Trefusis!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Matthew+Trefusis!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications and games.
+<p align="center">
+  Computer Science student at the University of Reading | Aspiring Software Developer | Builder of practical web apps and games
+</p>
 
 ---
 
 ## ✨ About Me
 
-- 🔭 I’m currently building and refining software projects that solve real problems
-- 🌱 I’m always learning—lately focusing on better tooling, cleaner architecture, and practical best practices
-- 🎮 I also use Luau to build and prototype games in Roblox Studio
-- 🤝 I’m open to collaborating if you’ve got a solid idea and want someone to help bring it to life
-- 💬 Happy to chat about development, product thinking, and how to ship without overcomplicating things
-- 📫 Best way to reach me is through GitHub Issues or GitHub Discussions on a repo
+- 🎓 I’m studying Computer Science at the University of Reading
+- 💻 I enjoy building practical, user-focused software
+- 🛠️ I’m interested in clean code, good UI, and reliable software design
+- 🤝 I’m always open to collaborating on interesting projects and ideas
+- 📫 Best way to reach me is through GitHub or LinkedIn
 
 ---
 
-## 🛠️ Tech I Enjoy
+## 🛠️ Tech Stack
 
 <div align="center">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cs,go,lua,js,ts" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css" alt="Languages" />
   <br />
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,sass,react,angular,bootstrap,tailwind,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind,vite,sass" alt="Frontend" />
   <br />
 
   <!-- Backend -->
@@ -47,36 +47,34 @@
 
 ## 📌 Current Focus
 
-- Improving developer experience
-- Building reliable, maintainable systems
-- Shipping small, valuable improvements consistently
+- Building stronger projects for my portfolio
+- Improving my frontend and backend development skills
+- Learning better architecture, tooling, and code quality habits
+- Shipping small improvements consistently
+
+---
+
+## 🚀 Featured Projects
+
+- **[Movie Finder](https://github.com/matthewtrefusis/Movie-Finder)** — Responsive movie browser built with React, Vite, TypeScript, and Bootstrap, using the TMDB API
 
 ---
 
 ## 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthewtrefusis)
-[![Issues](https://img.shields.io/badge/Issues-Start%20a%20Conversation-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthewtrefusis/matthewtrefusis/issues)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-trefusis/)
-
-
----
-
-## ⚡️ Stats
-
-<br>
-
-<div align="center">
-  <img
-    width="390"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=matthewtrefusis&theme=transparent&count_private=true&border_radius=10&locale=en"
-    alt="matthewtrefusis's GitHub streak"
-  />
-</div>
+<p align="center">
+  <a href="https://github.com/matthewtrefusis">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/matthew-trefusis/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/matthewtrefusis/matthewtrefusis/issues">
+    <img src="https://img.shields.io/badge/Contact-Open%20an%20Issue-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Contact" />
+  </a>
+</p>
 
 ---
-
-<p align="left">Thanks for visiting! ⭐️</p>
 
 <p align="center">
   <img
@@ -85,3 +83,5 @@
     width="100%"
   >
 </p>
+
+<p align="left">Thanks for visiting! ⭐️</p>
