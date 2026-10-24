@@ -44,7 +44,7 @@ I like taking ideas from concept to implementation, with a focus on clear interf
   <img src="https://skillicons.dev/icons?i=git,github,mongodb,linux,vscode" alt="Git, GitHub, MongoDB, Linux and VS Code" />
 </p>
 
-## 🚀 Featured project
+## 🚀 Featured projects
 
 ### [🎬 Movie Finder](https://github.com/matthewtrefusis/Movie-Finder)
 
@@ -54,6 +54,22 @@ A responsive movie browser built with **React**, **TypeScript**, **Vite**, and *
 - 🎞️ Genre filtering
 - ⭐ Favourites saved with `localStorage`
 - 📱 Responsive user interface
+
+### [🏎️ Racing Simulator Neural Network](https://github.com/matthewtrefusis/racing-simulator-neural-network)
+
+A hands-on neural network implementation in **Python**, built from the ground up without high-level ML frameworks.
+
+- 🧠 Forward propagation and backpropagation
+- ⚙️ Weight updates and activation functions
+- 📉 Model training from first principles
+
+### [💰 BudgetManager](https://github.com/matthewtrefusis/BudgetManager)
+
+A **.NET 10** Windows Forms app for managing budgets with a **Microsoft Access** database and automatic setup.
+
+- 📊 Track income, expenses, categories, budgets, and reports
+- 🔐 User accounts with password validation
+- 🧾 Transaction management and budget calculations
 
 ## 📈 GitHub activity
 
